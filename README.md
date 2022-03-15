@@ -29,3 +29,6 @@ RAMA-BBDD
     EXA 3ª EVA
     EXA JUNIO
 >>>>>>> RAMA-BBDD
+
+    RAMA-JUNIO
+    SUSPENSO
