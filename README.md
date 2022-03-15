@@ -31,3 +31,4 @@ RAMA-BBDD
 >>>>>>> RAMA-BBDD
 
     RAMA-JUNIO
+    SUSPENSO
